@@ -2,7 +2,7 @@
 
 SE-Lex är en svensk rättsdatabas, med fokus på författningar vilket är **Sveriges lagar, förordningar och föreskrifter**. Den baserar sig på offentliga handlingar.
 
-En webbversion är publicerad på [selex.se](https://selex.se).
+**[📗 Svensk författningssamling (SFS) som Git-repo](https://github.com/se-lex/sfs)**
 
 ## 🎯 Målsättningar
 
@@ -53,8 +53,23 @@ Datan hämtas från [Regeringskansliets söktjänst](https://beta.rkrattsbaser.g
 
 ## 📦 Artefakter
 
-Även om Git-repot i sig är den främsta artefakten görs ett flertal andra exporter:
+### Git-repo
 
-### 🌐 Webbversion
+[📗 Svensk författningssamling (SFS) som Git-repo](https://github.com/se-lex/sfs)
 
-Publicering av HTML-version på [selex.se](https://selex.se), med länkar till andra format. Webbplatsen stödjer [ELI](https://eur-lex.europa.eu/eli-register/about.html), den juridiska standard som EU tagit fram för publicerad lagstiftning.
+SFS som Git-historik, där varje ändring återfinns i en commit. Styrkan är att man ser varje differens tydligt och hur varje dokument förändrats över tid.
+
+Tyvärr hanterar inte Git tidsstämplar tidigare än 1980, därför har alla lagar och förordningar tidigare än så fått 1980 som commit date.
+
+### Webbversion
+
+Publicering av HTML-version sker på [selex.se](https://selex.se), med länkar till andra format. Webbplatsen stödjer [ELI](https://eur-lex.europa.eu/eli-register/about.html), den juridiska standard som EU tagit fram för publicerad lagstiftning.
+
+### Markdown med temporala taggar
+
+Förberett för AI-tillämpningar med RAG. Kontakta martin@marca.se för mer information.
+
+## Flödesdiagram
+
+![Systemskiss över SE-Lex](systemskiss-selex.png)
+
