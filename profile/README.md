@@ -1,6 +1,8 @@
 # SE-Lex
 
-SE-Lex är en svensk rättsdatabas, med fokus på författningar vilket är **Sveriges lagar, förordningar och föreskrifter**. Den baserar sig på offentliga handlingar.
+SE-Lex är en databas med det svenska regelverket; **Sveriges lagar, förordningar och föreskrifter**.
+
+Den baserar sig på offentliga allmänna handlingar.
 
 **[📗 Svensk författningssamling (SFS) som Git-repo](https://github.com/se-lex/sfs)**
 
@@ -67,7 +69,7 @@ Publicering av HTML-version sker på [selex.se](https://selex.se), med länkar t
 
 ### Markdown med temporala taggar
 
-Förberett för AI-tillämpningar med RAG. Kontakta martin@marca.se för mer information.
+Förberett för AI-tillämpningar med RAG. Kontakta martin@marca.se vid intresse.
 
 ## Flödesdiagram
 
