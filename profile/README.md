@@ -16,6 +16,10 @@ Projektet eftersträvar:
 
 - att uppfylla [kvalitetskrav](https://rattsinfo.se/kvalitetskrav/) för rättsdatabas, definierade av [Stiftelsen för rättsinformation](https://rattsinfo.se).
 
+## 👨‍💻 Utvecklare
+
+SE-Lex har utvecklats av Martin Rimskog, som nås på martin@marca.se. Systemet har varit ett sätt att experimentera med AI-verktyg inom systemutveckling, med bland annat Claude Code och Gemini. Grunden i SE-Lex utvecklades under semestern 2025. Idén till projektet kom från behov av rättsinformation i konsultuppdrag, ihop med en personlig frustration kring “digitalisering” inom offentlig sektor.
+
 ## 🫶 Bakgrund och motiv
 
 Våra nordiska grannländer har en bättre hantering av rättsinformation, medan det i Sverige just nu mest är PDF-filer publicerade på myndigheternas webbplatser. Sverige förtjänar något bättre.
